@@ -2,7 +2,7 @@
 
     {
       "title":"Sofa 1",
-      "image":"../../images/living-room/sofa1.png",
+      "image":"../images/living-room/sofa1.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -10,7 +10,7 @@
    },
    {
       "title":"Sofa 2 pink",
-      "image":"../../images/living-room/sofa2.png",
+      "image":"../images/living-room/sofa2.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -18,7 +18,7 @@
    },
    {
       "title":"Sofa 3",
-      "image":"../../images/living-room/sofa4.png",
+      "image":"../images/living-room/sofa4.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -26,7 +26,7 @@
    },
    {
       "title":"Sofa 4",
-      "image":"../../images/living-room/sofa6.png",
+      "image":"../images/living-room/sofa6.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -34,7 +34,7 @@
    },
    {
       "title":"Sofa 5",
-      "image":"../../images/living-room/sofa7.png",
+      "image":"../images/living-room/sofa7.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -42,7 +42,7 @@
    },
    {
       "title":"Sofa 6",
-      "image":"../../images/living-room/sofa8.png",
+      "image":"../images/living-room/sofa8.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -51,7 +51,7 @@
 
    {
       "title":"Coffee Table 1",
-      "image":"../../images/living-room/ct1.png",
+      "image":"../images/living-room/ct1.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -59,7 +59,7 @@
    },
    {
       "title":"Coffee Table 2 pink",
-      "image":"../../images/living-room/ct2.png",
+      "image":"../images/living-room/ct2.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -67,7 +67,7 @@
    },
    {
       "title":"Coffee Table 3",
-      "image":"../../images/living-room/ct3.png",
+      "image":"../images/living-room/ct3.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -75,7 +75,7 @@
    },
    {
       "title":"Coffee Table 4",
-      "image":"../../images/living-room/ct5.png",
+      "image":"../images/living-room/ct5.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -83,7 +83,7 @@
    },
    {
       "title":"Coffee Table 5",
-      "image":"../../images/living-room/ct62.png",
+      "image":"../images/living-room/ct62.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -91,7 +91,7 @@
    },
    {
       "title":"Coffee Table 6",
-      "image":"../../images/living-room/ct72.png",
+      "image":"../images/living-room/ct72.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -99,7 +99,7 @@
    },
    {
       "title":"Coffee Table 7",
-      "image":"../../images/living-room/C-Table-2.jpg",
+      "image":"../images/living-room/C-Table-2.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -107,7 +107,7 @@
    },
    {
       "title":"Coffee Table 8",
-      "image":"../../images/living-room/C-Table-3.jpg",
+      "image":"../images/living-room/C-Table-3.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -115,7 +115,7 @@
    },
    {
       "title":"Coffee Table 9",
-      "image":"../../images/living-room/C-Table-7.jpg",
+      "image":"../images/living-room/C-Table-7.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -123,7 +123,7 @@
    },
    {
       "title":"Coffee Table 10",
-      "image":"../../images/living-room/C-Table-13.jpg",
+      "image":"../images/living-room/C-Table-13.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -132,7 +132,7 @@
 
    {
       "title":"TV Unit 1",
-      "image":"../../images/living-room/tv unit1.png",
+      "image":"../images/living-room/tv unit1.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -140,7 +140,7 @@
    },
    {
       "title":"TV Unit 2",
-      "image":"../../images/living-room/tv unit2.png",
+      "image":"../images/living-room/tv unit2.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -148,7 +148,7 @@
    },
    {
       "title":"TV Unit 3",
-      "image":"../../images/living-room/tv unit3.png",
+      "image":"../images/living-room/tv unit3.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -156,7 +156,7 @@
    },
    {
       "title":"TV Unit 4",
-      "image":"../../images/living-room/tv unit4.png",
+      "image":"../images/living-room/tv unit4.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -164,7 +164,7 @@
    },
    {
       "title":"TV Unit 5",
-      "image":"../../images/living-room/tv unit5.png",
+      "image":"../images/living-room/tv unit5.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -172,7 +172,7 @@
    },
    {
       "title":"TV Unit 6",
-      "image":"../../images/living-room/tv unit6.png",
+      "image":"../images/living-room/tv unit6.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -181,7 +181,7 @@
 
    {
       "title":"Recliner 1",
-      "image":"../../images/living-room/chair1.png",
+      "image":"../images/living-room/chair1.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -189,7 +189,7 @@
    },
    {
       "title":"Recliner 2",
-      "image":"../../images/living-room/chair2.png",
+      "image":"../images/living-room/chair2.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -197,7 +197,7 @@
    },
    {
       "title":"Recliner 3",
-      "image":"../../images/living-room/chair3.png",
+      "image":"../images/living-room/chair3.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -205,7 +205,7 @@
    },
    {
       "title":"Recliner 4",
-      "image":"../../images/living-room/chair4.png",
+      "image":"../images/living-room/chair4.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -213,7 +213,7 @@
    },
    {
       "title":"Recliner 5",
-      "image":"../../images/living-room/chair5.png",
+      "image":"../images/living-room/chair5.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -221,7 +221,7 @@
    },
    {
       "title":"Recliner 6",
-      "image":"../../images/living-room/chair6.jpg",
+      "image":"../images/living-room/chair6.jpg",
       "categories":[
          "Living Room",
          "Recliners"
@@ -244,6 +244,7 @@
          "Bookshelves"
       ]
    },
+
 
    {
       "title":"Bed 1",
@@ -279,7 +280,7 @@
    },
    {
       "title":"Nightstand 1",
-      "image":"../../images/bedroom/side t1.png",
+      "image":"../images/bedroom/side t1.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -287,7 +288,7 @@
    },
    {
       "title":"Nightstand 2",
-      "image":"../../images/bedroom/side t2.png",
+      "image":"../images/bedroom/side t2.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -295,7 +296,7 @@
    },
    {
       "title":"Nightstand 3",
-      "image":"../../images/bedroom/side t3.png",
+      "image":"../images/bedroom/side t3.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -303,7 +304,7 @@
    },
    {
       "title":"Nightstand 4",
-      "image":"../../images/bedroom/side t4.png",
+      "image":"../images/bedroom/side t4.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -311,7 +312,7 @@
    },
    {
       "title":"Nightstand 5",
-      "image":"../../images/bedroom/side t5.png",
+      "image":"../images/bedroom/side t5.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -353,7 +354,7 @@
 
    {
       "title":"Dining Table 1",
-      "image":"../../images/dining-room/dt1.png",
+      "image":"../images/dining-room/dt1.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
@@ -361,7 +362,7 @@
    },
    {
       "title":"Dining Table 2 pink",
-      "image":"../../images/dining-room/dt2.png",
+      "image":"../images/dining-room/dt2.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
@@ -369,7 +370,7 @@
    },
    {
       "title":"Dining Table 3",
-      "image":"../../images/dining-room/dt3.png",
+      "image":"../images/dining-room/dt3.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
@@ -377,7 +378,7 @@
    },
    {
       "title":"Dining Table 4",
-      "image":"../../images/dining-room/dt4.png",
+      "image":"../images/dining-room/dt4.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
