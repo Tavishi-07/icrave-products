@@ -107,7 +107,7 @@
    },
    {
       "title":"Coffee Table 8",
-      "image":"../../images/living-room/C-Table-3.jp",
+      "image":"../../images/living-room/C-Table-3.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -115,7 +115,7 @@
    },
    {
       "title":"Coffee Table 9",
-      "image":"../../images/living-room/C-Table-7.jp",
+      "image":"../../images/living-room/C-Table-7.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -123,7 +123,7 @@
    },
    {
       "title":"Coffee Table 10",
-      "image":"../../images/living-room/C-Table-13.jp",
+      "image":"../../images/living-room/C-Table-13.jpg",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -244,39 +244,6 @@
          "Bookshelves"
       ]
    },
-   {
-      "title":"Bookshelf 3",
-      "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
-   },
-   {
-      "title":"Bookshelf 4",
-      "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
-   },
-   {
-      "title":"Bookshelf 5",
-      "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
-   },
-   {
-      "title":"Bookshelf 6",
-      "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
-   },
-
 
    {
       "title":"Bed 1",
