@@ -1,48 +1,72 @@
 [
 
     {
-      "title":"Sofa 1",
-      "image":"../images/living-room/sofa1.png",
+      "title":"Velvet Curved Sofa",
+      "image":"../images/living-room/Velvet-Curved-Sofa.png",
       "categories":[
          "Living Room",
          "Sofas"
       ]
    },
    {
-      "title":"Sofa 2 pink",
-      "image":"../images/living-room/sofa2.png",
+      "title":"Arm Modern Sofa",
+      "image":"../images/living-room/Arm-Modern-Sofa.png",
       "categories":[
          "Living Room",
          "Sofas"
       ]
    },
    {
-      "title":"Sofa 3",
-      "image":"../images/living-room/sofa4.png",
+      "title":"Modern Sofa with Metal Legs",
+      "image":"../images/living-room/Modern-Sofa-with-Metal-Legs.png",
       "categories":[
          "Living Room",
          "Sofas"
       ]
    },
    {
-      "title":"Sofa 4",
-      "image":"../images/living-room/sofa6.png",
+      "title":"Modern 3 Seater Sofa",
+      "image":"../images/living-room/Modern-3-Seater-Sofa.png",
       "categories":[
          "Living Room",
          "Sofas"
       ]
    },
    {
-      "title":"Sofa 5",
-      "image":"../images/living-room/sofa7.png",
+      "title":"L Shaped Sofa",
+      "image":"../images/living-room/L-Shaped-Sofa.png",
       "categories":[
          "Living Room",
          "Sofas"
       ]
    },
    {
-      "title":"Sofa 6",
-      "image":"../images/living-room/sofa8.png",
+      "title":"L shaped modern sofa",
+      "image":"../images/living-room/L-shaped-modern-sofa.png",
+      "categories":[
+         "Living Room",
+         "Sofas"
+      ]
+   },
+   {
+      "title":"IC 3 Seater Designer Sofa",
+      "image":"../images/living-room/IC-3-Seater-Designer-Sofa.png",
+      "categories":[
+         "Living Room",
+         "Sofas"
+      ]
+   },
+   {
+      "title":"Modern Style Velvet Sofa",
+      "image":"../images/living-room/Modern-Style-Velvet-Sofa.png",
+      "categories":[
+         "Living Room",
+         "Sofas"
+      ]
+   },
+   {
+      "title":"Floating Curved Sofa",
+      "image":"../images/living-room/Floating-Curved-Sofa.png",
       "categories":[
          "Living Room",
          "Sofas"
@@ -50,80 +74,120 @@
    },
 
    {
-      "title":"Coffee Table 1",
-      "image":"../images/living-room/ct1.png",
+      "title":"Modern Centre Table",
+      "image":"../images/living-room/Modern-Centre-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 2 pink",
-      "image":"../images/living-room/ct2.png",
+      "title":"Christensen Side Table",
+      "image":"../images/living-room/Christensen-Side-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 3",
-      "image":"../images/living-room/ct3.png",
+      "title":"Round Coffee table",
+      "image":"../images/living-room/Round-Coffee-table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 4",
-      "image":"../images/living-room/ct5.png",
+      "title":"Italian Style Round Coffee table",
+      "image":"../images/living-room/Italian-Style-Round-Coffee-table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 5",
-      "image":"../images/living-room/ct62.png",
+      "title":"Round C Shaped side Table",
+      "image":"../images/living-room/Round-C-Shaped-side-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 6",
-      "image":"../images/living-room/ct72.png",
+      "title":"C Shape side Table",
+      "image":"../images/living-room/C-Shape-side-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 7",
-      "image":"../images/living-room/C-Table-2.jpg",
+      "title":"Rectangular Stone Top Modern Coffee Table with Gray Pedestal Base and Storage Drawers",
+      "image":"../images/living-room/Rectangular-Stone-Top-Modern-Coffee-Table-with-Gray-Pedestal-Base-and-Storage-Drawers.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 8",
-      "image":"../images/living-room/C-Table-3.jpg",
+      "title":"Walnut Leaf Coffee Table",
+      "image":"../images/living-room/Walnut-Leaf-Coffee-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 9",
-      "image":"../images/living-room/C-Table-7.jpg",
+      "title":"Modern Coffee table with glass top",
+      "image":"../images/living-room/Modern-Coffee-table-with-glass-top.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
       ]
    },
    {
-      "title":"Coffee Table 10",
-      "image":"../images/living-room/C-Table-13.jpg",
+      "title":"Round Coffee Table With Marble Tabletop",
+      "image":"../images/living-room/Round-Coffee-Table-With-Marble-Tabletop.png",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Coffee Centre Table ,White Oval Shape with White Marble top",
+      "image":"../images/living-room/Coffee-Centre-Table-White-Oval-Shape-with-White-Marble-top.png",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Modern Round Coffee Table Marble Accent Table",
+      "image":"../images/living-room/Modern-Round-Coffee-Table-Marble-Accent-Table.png",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Modern Round Coffee Table",
+      "image":"../images/living-room/Modern-Round-Coffee-Table.png",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Round Coffee Table, 2-Piece, Italian Style",
+      "image":"../images/living-room/Round-Coffee-Table-2-Piece-Italian-Style.png",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Modern Chic Round Nesting Coffee Table with Storage White Stone Coffee Table",
+      "image":"../images/living-room/Modern-Chic-Round-Nesting-Coffee-Table-with-Storage-White-Stone-Coffee-Table.png",
       "categories":[
          "Living Room",
          "Coffee Tables"
@@ -131,40 +195,40 @@
    },
 
    {
-      "title":"TV Unit 1",
-      "image":"../images/living-room/tv unit1.png",
+      "title":"Modern TV Stand with Arch Fluted Glass Doors",
+      "image":"../images/living-room/Modern-TV-Stand-with-Arch-Fluted-Glass-Doors.png",
       "categories":[
          "Living Room",
          "TV Units"
       ]
    },
    {
-      "title":"TV Unit 2",
-      "image":"../images/living-room/tv unit2.png",
+      "title":"White Scandinavian TV Stand with Long and Low Profile, 2 Drawers, 1 Cabinet & Legs",
+      "image":"../images/living-room/White-Scandinavian-TV-Stand-with-Long-and-Low-Profile-2-Drawers-1-Cabinet-&-Legs.png",
       "categories":[
          "Living Room",
          "TV Units"
       ]
    },
    {
-      "title":"TV Unit 3",
-      "image":"../images/living-room/tv unit3.png",
+      "title":"Modern TV Stand",
+      "image":"../images/living-room/Modern-TV-Stand.png",
       "categories":[
          "Living Room",
          "TV Units"
       ]
    },
    {
-      "title":"TV Unit 4",
-      "image":"../images/living-room/tv unit4.png",
+      "title":"Brown Walnut color Wood Mid-Century TV stand",
+      "image":"../images/living-room/Brown-Walnut-color-Wood-Mid-Century-TV-stand.png",
       "categories":[
          "Living Room",
          "TV Units"
       ]
    },
    {
-      "title":"TV Unit 5",
-      "image":"../images/living-room/tv unit5.png",
+      "title":"Black TV Stand with Stone Top",
+      "image":"../images/living-room/Black-TV-Stand-with-Stone-Top.png",
       "categories":[
          "Living Room",
          "TV Units"
@@ -180,32 +244,32 @@
    },
 
    {
-      "title":"Recliner 1",
-      "image":"../images/living-room/chair1.png",
+      "title":"Luxury Royalwooden leisure chair",
+      "image":"../images/living-room/Luxury-Royalwooden-leisure-chair.png",
       "categories":[
          "Living Room",
          "Recliners"
       ]
    },
    {
-      "title":"Recliner 2",
-      "image":"../images/living-room/chair2.png",
+      "title":"Victorian Style Chair",
+      "image":"../images/living-room/Victorian-Style-Chair.png",
       "categories":[
          "Living Room",
          "Recliners"
       ]
    },
    {
-      "title":"Recliner 3",
-      "image":"../images/living-room/chair3.png",
+      "title":"Dragonfly Easy Chair",
+      "image":"../images/living-room/Dragonfly-Easy-Chair.png",
       "categories":[
          "Living Room",
          "Recliners"
       ]
    },
    {
-      "title":"Recliner 4",
-      "image":"../images/living-room/chair4.png",
+      "title":"Armchair",
+      "image":"../images/living-room/Armchair.png",
       "categories":[
          "Living Room",
          "Recliners"
@@ -255,7 +319,7 @@
       ]
    },
    {
-      "title":"Bed 2 pink",
+      "title":"Bed 2",
       "image":"",
       "categories":[
          "Bedroom",
@@ -271,7 +335,7 @@
       ]
    },
    {
-      "title":"Wardrobe 2 pink",
+      "title":"Wardrobe 2",
       "image":"",
       "categories":[
          "Bedroom",
@@ -279,40 +343,48 @@
       ]
    },
    {
-      "title":"Nightstand 1",
-      "image":"../images/bedroom/side t1.png",
+      "title":"Christensen Side Table",
+      "image":"../images/bedroom/Christensen-Side-Table.png",
       "categories":[
          "Bedroom",
          "Nightstands"
       ]
    },
    {
-      "title":"Nightstand 2",
-      "image":"../images/bedroom/side t2.png",
+      "title":"Round Coffee table",
+      "image":"../images/bedroom/Round-Coffee-table.png",
       "categories":[
          "Bedroom",
          "Nightstands"
       ]
    },
    {
-      "title":"Nightstand 3",
-      "image":"../images/bedroom/side t3.png",
+      "title":"Italian Style Round Coffee table",
+      "image":"../images/bedroom/Italian-Style-Round-Coffee-table.png",
       "categories":[
          "Bedroom",
          "Nightstands"
       ]
    },
    {
-      "title":"Nightstand 4",
-      "image":"../images/bedroom/side t4.png",
+      "title":"Round C Shaped side Table",
+      "image":"../images/bedroom/Round-C-Shaped-side-Table.png",
       "categories":[
          "Bedroom",
          "Nightstands"
       ]
    },
    {
-      "title":"Nightstand 5",
-      "image":"../images/bedroom/side t5.png",
+      "title":"C Shape side Table",
+      "image":"../images/bedroom/C-Shape-side-Table.png",
+      "categories":[
+         "Bedroom",
+         "Nightstands"
+      ]
+   },
+   {
+      "title":"Modern Multifunctional Narrow Side Table, Sintered Stone Top End Table Speaker & USB Port",
+      "image":"../images/bedroom/Modern-Multifunctional-Narrow-Side-Table-Sintered-Stone-Top-End-Table-Speaker-&-USB-Port.png",
       "categories":[
          "Bedroom",
          "Nightstands"
@@ -353,32 +425,40 @@
    },
 
    {
-      "title":"Dining Table 1",
-      "image":"../images/dining-room/dt1.png",
+      "title":"Metropolitan Dining Table",
+      "image":"../images/dining-room/Metropolitan-Dining-Table.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
       ]
    },
    {
-      "title":"Dining Table 2 pink",
-      "image":"../images/dining-room/dt2.png",
+      "title":"Black glass dining table",
+      "image":"../images/dining-room/Black-glass-dining-table.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
       ]
    },
    {
-      "title":"Dining Table 3",
-      "image":"../images/dining-room/dt3.png",
+      "title":"Modern Style dining table",
+      "image":"../images/dining-room/Modern-Style-dining-table.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
       ]
    },
    {
-      "title":"Dining Table 4",
-      "image":"../images/dining-room/dt4.png",
+      "title":"Modern Round Dining Table with Lazy Susan Slate Stone Table Top with Wood Base Pedestal Dining Table",
+      "image":"../images/dining-room/Modern-Round-Dining-Table-with-Lazy-Susan-Slate-Stone-Table-Top-with-Wood-Base-Pedestal-Dining-Table.png",
+      "categories":[
+         "Dining Room",
+         "Dining Tables"
+      ]
+   },
+   {
+      "title":"Extraordinary Rich Broad Pleasant Marble-Top Dining Table Set",
+      "image":"../images/dining-room/Extraordinary-Rich-Broad-Pleasant-Marble-Top-Dining-Table-Set.png",
       "categories":[
          "Dining Room",
          "Dining Tables"
@@ -386,15 +466,15 @@
    },
 
    {
-      "title":"Chair 1",
-      "image":"",
+      "title":"Modern Dining Chair",
+      "image":"../images/dining-room/Modern-Dining-Chair.png",
       "categories":[
          "Dining Room",
          "Chairs"
       ]
    },
    {
-      "title":"Chair 2 pink",
+      "title":"Chair 2",
       "image":"",
       "categories":[
          "Dining Room",
@@ -443,7 +523,7 @@
       ]
    },
    {
-      "title":"Desk 2 pink",
+      "title":"Desk 2",
       "image":"",
       "categories":[
          "Office Furniture",
@@ -459,7 +539,7 @@
       ]
    },
    {
-      "title":"Office Chair 2 pink",
+      "title":"Office Chair 2",
       "image":"",
       "categories":[
          "Office Furniture",
@@ -507,7 +587,7 @@
       ]
    },
    {
-      "title":"Patio Set 2 pink",
+      "title":"Patio Set 2",
       "image":"",
       "categories":[
          "Outdoor Furniture",
@@ -523,7 +603,7 @@
       ]
    },
    {
-      "title":"Lounge Chair 2 pink",
+      "title":"Lounge Chair 2",
       "image":"",
       "categories":[
          "Outdoor Furniture",
