@@ -3,648 +3,372 @@
     {
       "name":"Velvet Curved Sofa",
       "image":"../images/living-room/Velvet-Curved-Sofa.png",
-      "seater":"3",
-      "primaryMaterial":"Velvet",
-      "frameMaterial":"Teak Wood",
-      "dimensions":"H 36”x W 80” x D 34” ",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/velvet-curved-sofa-5",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"Arm Modern Sofa",
       "image":"../images/living-room/Arm-Modern-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/arm-modern-sofa-5",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"Modern Sofa with Metal Legs",
       "image":"../images/living-room/Modern-Sofa-with-Metal-Legs.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-sofa-with-metal-legs-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"Modern 3 Seater Sofa",
       "image":"../images/living-room/Modern-3-Seater-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-3-seater-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"L Shaped Sofa",
       "image":"../images/living-room/L-Shaped-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/l-shaped-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"L shaped modern sofa",
       "image":"../images/living-room/L-shaped-modern-sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/l-shaped-modern-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"IC 3 Seater Designer Sofa",
       "image":"../images/living-room/IC-3-Seater-Designer-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/ic-3-seater-designer-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"Modern Style Velvet Sofa",
       "image":"../images/living-room/Modern-Style-Velvet-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-style-velvet-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
    {
       "name":"Floating Curved Sofa",
       "image":"../images/living-room/Floating-Curved-Sofa.png",
-      "categories":[
-         "Living Room",
-         "Sofas"
-      ]
+      "link":"https://shop.icravecreations.com/products/floating-curved-sofa-3",
+      "categories":["Living Room", "Sofas"]
    },
 
    {
       "name":"Modern Centre Table",
       "image":"../images/living-room/Modern-Centre-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-centre-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Christensen Side Table",
       "image":"../images/living-room/Christensen-Side-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/christensen-side-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Round Coffee table",
       "image":"../images/living-room/Round-Coffee-table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-coffee-table-9",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Italian Style Round Coffee table",
       "image":"../images/living-room/Italian-Style-Round-Coffee-table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/italian-style-round-coffee-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Round C Shaped side Table",
       "image":"../images/living-room/Round-C-Shaped-side-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-c-shaped-end-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"C Shape side Table",
       "image":"../images/living-room/C-Shape-side-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/c-shape-bedside-end-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Rectangular Stone Top Modern Coffee Table with Gray Pedestal Base and Storage Drawers",
       "image":"../images/living-room/Rectangular-Stone-Top-Modern-Coffee-Table-with-Gray-Pedestal-Base-and-Storage-Drawers.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/rectangular-stone-top-modern-coffee-table-with-gray-pedestal-base-and-storage-drawers-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Walnut Leaf Coffee Table",
       "image":"../images/living-room/Walnut-Leaf-Coffee-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/walnut-leaf-coffee-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Modern Coffee table with glass top",
       "image":"../images/living-room/Modern-Coffee-table-with-glass-top.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-coffeettable-with-glass-top-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Round Coffee Table With Marble Tabletop",
       "image":"../images/living-room/Round-Coffee-Table-With-Marble-Tabletop.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-coffee-table-with-marble-tabletop-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Coffee Centre Table ,White Oval Shape with White Marble top",
       "image":"../images/living-room/Coffee-Centre-Table-White-Oval-Shape-with-White-Marble-top.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/coffee-centre-table-white-oval-shape-with-white-marble-top-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Modern Round Coffee Table Marble Accent Table",
       "image":"../images/living-room/Modern-Round-Coffee-Table-Marble-Accent-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-round-coffee-table-marble-accent-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Modern Round Coffee Table",
       "image":"../images/living-room/Modern-Round-Coffee-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-round-coffee-table-6",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Round Coffee Table, 2-Piece, Italian Style",
       "image":"../images/living-room/Round-Coffee-Table-2-Piece-Italian-Style.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-coffee-table-2-piece-italian-style-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
    {
       "name":"Modern Chic Round Nesting Coffee Table with Storage White Stone Coffee Table",
       "image":"../images/living-room/Modern-Chic-Round-Nesting-Coffee-Table-with-Storage-White-Stone-Coffee-Table.png",
-      "categories":[
-         "Living Room",
-         "Coffee Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-chic-round-nesting-coffee-table-with-storage-white-stone-coffee-table-3",
+      "categories":["Living Room", "Coffee Tables"]
    },
 
    {
       "name":"Modern TV Stand with Arch Fluted Glass Doors",
       "image":"../images/living-room/Modern-TV-Stand-with-Arch-Fluted-Glass-Doors.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-tv-stand-with-arch-fluted-glass-doors-3",
+      "categories":["Living Room", "TV Units"]
    },
    {
       "name":"White Scandinavian TV Stand with Long and Low Profile, 2 Drawers, 1 Cabinet & Legs",
       "image":"../images/living-room/White-Scandinavian-TV-Stand-with-Long-and-Low-Profile-2-Drawers-1-Cabinet-&-Legs.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
+      "link":"https://shop.icravecreations.com/products/white-scandinavian-tv-stand-with-long-and-low-profile-2-drawers-1-cabinet-legs-3",
+      "categories":["Living Room", "TV Units"]
    },
    {
       "name":"Modern TV Stand",
       "image":"../images/living-room/Modern-TV-Stand.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-tv-stand-6",
+      "categories":["Living Room", "TV Units"]
    },
    {
       "name":"Brown Walnut color Wood Mid-Century TV stand",
       "image":"../images/living-room/Brown-Walnut-color-Wood-Mid-Century-TV-stand.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
+      "link":"https://shop.icravecreations.com/products/brown-walnut-color-wood-mid-century-tv-stand-3",
+      "categories":["Living Room", "TV Units"]
    },
    {
       "name":"Black TV Stand with Stone Top",
       "image":"../images/living-room/Black-TV-Stand-with-Stone-Top.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
-   },
-   {
-      "name":"TV Unit 6",
-      "image":"../images/living-room/tv unit6.png",
-      "categories":[
-         "Living Room",
-         "TV Units"
-      ]
+      "link":"https://shop.icravecreations.com/products/black-tv-stand-with-stone-top-3",
+      "categories":["Living Room", "TV Units"]
    },
 
    {
       "name":"Luxury Royalwooden leisure chair",
       "image":"../images/living-room/Luxury-Royalwooden-leisure-chair.png",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
+      "link":"https://shop.icravecreations.com/products/luxury-royalwooden-leisure-chair-3",
+      "categories":["Living Room", "Recliners"]
    },
    {
       "name":"Victorian Style Chair",
       "image":"../images/living-room/Victorian-Style-Chair.png",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
+      "link":"https://shop.icravecreations.com/products/victorian-style-chair-3",
+      "categories":["Living Room", "Recliners"]
    },
    {
       "name":"Dragonfly Easy Chair",
       "image":"../images/living-room/Dragonfly-Easy-Chair.png",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
+      "link":"https://shop.icravecreations.com/products/dragonfly-easy-chair-3",
+      "categories":["Living Room", "Recliners"]
    },
    {
       "name":"Armchair",
       "image":"../images/living-room/Armchair.png",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
-   },
-   {
-      "name":"Recliner 5",
-      "image":"../images/living-room/chair5.png",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
-   },
-   {
-      "name":"Recliner 6",
-      "image":"../images/living-room/chair6.jpg",
-      "categories":[
-         "Living Room",
-         "Recliners"
-      ]
+      "link":"https://shop.icravecreations.com/products/armchair-3",
+      "categories":["Living Room", "Recliners"]
    },
 
    {
-      "name":"Bookshelf 1",
+      "name":"Bookshelf",
       "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
-   },
-   {
-      "name":"Bookshelf 2",
-      "image":"",
-      "categories":[
-         "Living Room",
-         "Bookshelves"
-      ]
+      "link":"",
+      "categories":["Living Room", "Bookshelves"]
    },
 
 
    {
-      "name":"Bed 1",
+      "name":"Bed",
       "image":"",
-      "categories":[
-         "Bedroom",
-         "Beds"
-      ]
+      "link":"",
+      "categories":["Bedroom", "Beds"]
    },
    {
-      "name":"Bed 2",
+      "name":"Wardrobe",
       "image":"",
-      "categories":[
-         "Bedroom",
-         "Beds"
-      ]
-   },
-   {
-      "name":"Wardrobe 1",
-      "image":"",
-      "categories":[
-         "Bedroom",
-         "Wardrobes"
-      ]
-   },
-   {
-      "name":"Wardrobe 2",
-      "image":"",
-      "categories":[
-         "Bedroom",
-         "Wardrobes"
-      ]
+      "link":"",
+      "categories":["Bedroom", "Wardrobes"]
    },
    {
       "name":"Christensen Side Table",
       "image":"../images/bedroom/Christensen-Side-Table.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/christensen-side-table-3",
+      "categories":["Bedroom", "Nightstands"]
    },
    {
       "name":"Round Coffee table",
       "image":"../images/bedroom/Round-Coffee-table.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-coffee-table-9",
+      "categories":["Bedroom", "Nightstands"]
    },
    {
       "name":"Italian Style Round Coffee table",
       "image":"../images/bedroom/Italian-Style-Round-Coffee-table.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/italian-style-round-coffee-table-3",
+      "categories":["Bedroom", "Nightstands"]
    },
    {
       "name":"Round C Shaped side Table",
       "image":"../images/bedroom/Round-C-Shaped-side-Table.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/round-c-shaped-end-table-3",
+      "categories":["Bedroom", "Nightstands"]
    },
    {
       "name":"C Shape side Table",
       "image":"../images/bedroom/C-Shape-side-Table.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/c-shape-bedside-end-table-3",
+      "categories":["Bedroom", "Nightstands"]
    },
    {
       "name":"Modern Multifunctional Narrow Side Table, Sintered Stone Top End Table Speaker & USB Port",
       "image":"../images/bedroom/Modern-Multifunctional-Narrow-Side-Table-Sintered-Stone-Top-End-Table-Speaker-&-USB-Port.png",
-      "categories":[
-         "Bedroom",
-         "Nightstands"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-multifunctional-narrow-side-table-sintered-stone-top-end-table-speaker-usb-port-3",
+      "categories":["Bedroom", "Nightstands"]
    },
 
    {
-      "name":"Dresser 1",
+      "name":"Dresser",
       "image":"",
-      "categories":[
-         "Bedroom",
-         "Dressers"
-      ]
+      "link":"",
+      "categories":["Bedroom", "Dressers"]
    },
    {
-      "name":"Dresser 2",
+      "name":"Mattress",
       "image":"",
-      "categories":[
-         "Bedroom",
-         "Dressers"
-      ]
-   },
-   {
-      "name":"Mattress 1",
-      "image":"",
-      "categories":[
-         "Bedroom",
-         "Mattresses"
-      ]
-   },
-   {
-      "name":"Mattress 2",
-      "image":"",
-      "categories":[
-         "Bedroom",
-         "Mattresses"
-      ]
+      "link":"",
+      "categories":["Bedroom", "Mattresses"]
    },
 
    {
       "name":"Metropolitan Dining Table",
       "image":"../images/dining-room/Metropolitan-Dining-Table.png",
-      "categories":[
-         "Dining Room",
-         "Dining Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/metropolitan-dining-table-4",
+      "categories":["Dining Room", "Dining Tables"]
    },
    {
       "name":"Black glass dining table",
       "image":"../images/dining-room/Black-glass-dining-table.png",
-      "categories":[
-         "Dining Room",
-         "Dining Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/black-glass-dining-table-4",
+      "categories":["Dining Room", "Dining Tables"]
    },
    {
       "name":"Modern Style dining table",
       "image":"../images/dining-room/Modern-Style-dining-table.png",
-      "categories":[
-         "Dining Room",
-         "Dining Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-style-dining-table-3",
+      "categories":["Dining Room", "Dining Tables"]
    },
    {
       "name":"Modern Round Dining Table with Lazy Susan Slate Stone Table Top with Wood Base Pedestal Dining Table",
       "image":"../images/dining-room/Modern-Round-Dining-Table-with-Lazy-Susan-Slate-Stone-Table-Top-with-Wood-Base-Pedestal-Dining-Table.png",
-      "categories":[
-         "Dining Room",
-         "Dining Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-round-dining-table-with-lazy-susan-slate-stone-table-top-with-wood-base-pedestal-dining-tab-3",
+      "categories":["Dining Room", "Dining Tables"]
    },
    {
       "name":"Extraordinary Rich Broad Pleasant Marble-Top Dining Table Set",
       "image":"../images/dining-room/Extraordinary-Rich-Broad-Pleasant-Marble-Top-Dining-Table-Set.png",
-      "categories":[
-         "Dining Room",
-         "Dining Tables"
-      ]
+      "link":"https://shop.icravecreations.com/products/extraordinary-rich-broad-pleasant-marble-top-dining-table-set-3?sku_id=53400906",
+      "categories":["Dining Room", "Dining Tables"]
    },
 
    {
       "name":"Modern Dining Chair",
       "image":"../images/dining-room/Modern-Dining-Chair.png",
-      "categories":[
-         "Dining Room",
-         "Chairs"
-      ]
+      "link":"https://shop.icravecreations.com/products/modern-dining-chair-3",
+      "categories":["Dining Room", "Chairs"]
    },
    {
-      "name":"Chair 2",
+      "name":"Sideboard",
       "image":"",
-      "categories":[
-         "Dining Room",
-         "Chairs"
-      ]
+      "link":"",
+      "categories":["Dining Room", "Sideboards"]
    },
    {
-      "name":"Sideboard 1",
+      "name":"Bar-Stool",
       "image":"",
-      "categories":[
-         "Dining Room",
-         "Sideboards"
-      ]
-   },
-   {
-      "name":"Sideboard 2",
-      "image":"",
-      "categories":[
-         "Dining Room",
-         "Sideboards"
-      ]
-   },
-   {
-      "name":"Bar-Stool 1",
-      "image":"",
-      "categories":[
-         "Dining Room",
-         "Bar Stools"
-      ]
-   },
-   {
-      "name":"Bar-Stool 2",
-      "image":"",
-      "categories":[
-         "Dining Room",
-         "Bar Stools"
-      ]
+      "link":"",
+      "categories":["Dining Room", "Bar Stools"]
    },
 
    {
-      "name":"Desk 1",
+      "name":"Desk",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Desks"
-      ]
+      "link":"",
+      "categories":["Office Furniture", "Desks"]
    },
    {
-      "name":"Desk 2",
+      "name":"Office Chair",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Desks"
-      ]
+      "link":"",
+      "categories":["Office Furniture", "Office Chairs"]
    },
    {
-      "name":"Office Chair 1",
+      "name":"Filing Cabinet",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Office Chairs"
-      ]
+      "link":"",
+      "categories":["Office Furniture", "Filing Cabinets"]
    },
    {
-      "name":"Office Chair 2",
+      "name":"Conference Table",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Office Chairs"
-      ]
+      "link":"",
+      "categories":["Office Furniture", "Conference Tables"]
    },
    {
-      "name":"Filing Cabinet 1",
+      "name":"Patio Set",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Filing Cabinets"
-      ]
+      "link":"",
+      "categories":["Outdoor Furniture", "Patio Sets"]
    },
    {
-      "name":"Filing Cabinet 2",
+      "name":"Lounge Chair",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Filing Cabinets"
-      ]
+      "link":"",
+      "categories":["Outdoor Furniture", "Lounge Chairs"]
    },
    {
-      "name":"Conference Table 1",
+      "name":"Outdoor Table",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Conference Tables"
-      ]
+      "link":"",
+      "categories":["Outdoor Furniture", "Outdoor Tables"]
    },
    {
-      "name":"Conference Table 2",
+      "name":"Umbrella",
       "image":"",
-      "categories":[
-         "Office Furniture",
-         "Conference Tables"
-      ]
-   },
-   {
-      "name":"Patio Set 1",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Patio Sets"
-      ]
-   },
-   {
-      "name":"Patio Set 2",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Patio Sets"
-      ]
-   },
-   {
-      "name":"Lounge Chair 1",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Lounge Chairs"
-      ]
-   },
-   {
-      "name":"Lounge Chair 2",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Lounge Chairs"
-      ]
-   },
-   {
-      "name":"Outdoor Table 1",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Outdoor Tables"
-      ]
-   },
-   {
-      "name":"Outdoor Table 2",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Outdoor Tables"
-      ]
-   },
-   {
-      "name":"Umbrella 1",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Umbrellas"
-      ]
-   },
-   {
-      "name":"Umbrella 2",
-      "image":"",
-      "categories":[
-         "Outdoor Furniture",
-         "Umbrellas"
-      ]
+      "link":"",
+      "categories":["Outdoor Furniture", "Umbrellas"]
    }
 
 ]
