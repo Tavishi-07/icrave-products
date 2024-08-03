@@ -54,6 +54,12 @@
       "link":"https://shop.icravecreations.com/products/floating-curved-sofa-3",
       "categories":["Living Room", "Sofas"]
    },
+   {
+      "name":"Modern Curved Modular Sofa with Shelf",
+      "image":"assets/images/living-room/Modern-Curved-Modular-Sofa-with-Shelf.png",
+      "link":"https://shop.icravecreations.com/products/modern-curved-modular-sofa-with-shelf-3",
+      "categories":["Living Room", "Sofas"]
+   },
 
    {
       "name":"Modern Centre Table",
@@ -258,6 +264,24 @@
       "link":"https://shop.icravecreations.com/products/modern-multifunctional-narrow-side-table-sintered-stone-top-end-table-speaker-usb-port-3",
       "categories":["Bedroom", "Nightstands"]
    },
+   {
+      "name":"Side Table with Wooden Finish",
+      "image":"assets/images/bedroom/side-table-with-wooden-finish.png",
+      "link":"https://shop.icravecreations.com/products/side-table-with-wooden-finish-3",
+      "categories":["Bedroom", "Nightstands"]
+   },
+   {
+      "name":"X-shaped Side Table",
+      "image":"assets/images/bedroom/x-shaped-side-table.png",
+      "link":"https://shop.icravecreations.com/products/x-shaped-side-table-3",
+      "categories":["Bedroom", "Nightstands"]
+   },
+   {
+      "name":"Modern Side Table",
+      "image":"assets/images/bedroom/modern-side-table.png",
+      "link":"https://shop.icravecreations.com/products/modern-side-table-3",
+      "categories":["Bedroom", "Nightstands"]
+   },
 
    {
       "name":"Dresser",
@@ -299,7 +323,19 @@
    {
       "name":"Extraordinary Rich Broad Pleasant Marble-Top Dining Table Set",
       "image":"assets/images/dining-room/Extraordinary-Rich-Broad-Pleasant-Marble-Top-Dining-Table-Set.png",
-      "link":"https://shop.icravecreations.com/products/extraordinary-rich-broad-pleasant-marble-top-dining-table-set-3?sku_id=53400906",
+      "link":"https://shop.icravecreations.com/products/round-dining-table-3",
+      "categories":["Dining Room", "Dining Tables"]
+   },
+   {
+      "name":"Solid Wood Dining Table",
+      "image":"assets/images/dining-room/Solid-Wood-dining-table.png",
+      "link":"https://shop.icravecreations.com/products/solid-wood-dining-table-3",
+      "categories":["Dining Room", "Dining Tables"]
+   },
+   {
+      "name":"Round Dining Table",
+      "image":"assets/images/dining-room/Round-Dining-table.png",
+      "link":"https://shop.icravecreations.com/products/solid-wood-dining-table-3",
       "categories":["Dining Room", "Dining Tables"]
    },
 
